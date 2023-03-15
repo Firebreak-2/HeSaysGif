@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeSaysGif", "HeSaysGif.csproj", "{A6C7A749-3170-400F-ACDB-4D5CCD53A818}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeSaysGif.GUI", "HeSaysGif.GUI\HeSaysGif.GUI.csproj", "{A0D48661-B3E4-4B0C-9D4A-701B666D1182}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6C7A749-3170-400F-ACDB-4D5CCD53A818}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6C7A749-3170-400F-ACDB-4D5CCD53A818}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6C7A749-3170-400F-ACDB-4D5CCD53A818}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6C7A749-3170-400F-ACDB-4D5CCD53A818}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0D48661-B3E4-4B0C-9D4A-701B666D1182}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0D48661-B3E4-4B0C-9D4A-701B666D1182}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0D48661-B3E4-4B0C-9D4A-701B666D1182}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0D48661-B3E4-4B0C-9D4A-701B666D1182}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

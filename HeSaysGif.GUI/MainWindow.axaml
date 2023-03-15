@@ -1,0 +1,20 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="500" d:DesignHeight="150"
+        Width="500" Height="150"
+        WindowStartupLocation="CenterScreen"
+        x:Class="HeSaysGif.GUI.MainWindow"
+        Title="HeSaysGif.GUI">
+    <StackPanel Margin="20" Spacing="20">
+        <Button
+            Content="Generate HeSays GIF From File"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Center"
+            x:Name="GenerationButton"
+            Click="GenerationButton_OnClick"/>
+        <TextBlock x:Name="GenerationResultTextBlock" 
+                   PointerPressed="GenerationResultTextBlock_OnPointerPressed"/>
+    </StackPanel>
+</Window>
