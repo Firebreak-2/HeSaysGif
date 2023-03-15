@@ -8,3 +8,10 @@ Once the program is extracted in binary form, you can run it with either:
 
 ## GUI Usage
 Run program. Click button. Select File. Done.
+
+## Example
+### Input
+<img src="https://i.imgur.com/mTwHuAt.png" width="512" height="512" />
+
+### Output
+<img src="https://i.imgur.com/83gMrku.gif" width="512" height="512" />
